@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+}
