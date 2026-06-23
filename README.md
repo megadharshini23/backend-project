@@ -11,7 +11,7 @@ This project demonstrates DOM manipulation, event handling, and theme switching 
 ---
 
 ## 📌 Live Demo
-👉 https://your-username.github.io/counter-app/
+👉 https://your-megadharshini23.github.io/counter-app/
 
 ---
 
